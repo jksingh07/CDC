@@ -1,6 +1,9 @@
 # CDC (CHANGE DATA CAPTURE)
 **Change Data Capture / Replication on Going using PySpark and AWS Services such as S3, RDS, DMS, LAMBDA, GLUE etc.**
 
+## CDC Demo Video Link
+https://drive.google.com/file/d/1l6Z03TrpNfjiTYOPidqRWpScr-OZ8c6E/view?usp=share_link
+
 ## Project Description
 
 The proposed project aims to implement a change data capture (CDC) system that captures and replicates ongoing changes in a database to another storage system. The primary objective of this project is to create a data leak out of the database and track every change that occurs, including 
